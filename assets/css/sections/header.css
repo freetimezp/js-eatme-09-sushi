@@ -28,6 +28,10 @@
     opacity: 0.8;
 }
 
+.header__logo h4 span {
+    color: #000;
+}
+
 .header__menu,
 .header__menu-mobile {
     padding: 20px;
